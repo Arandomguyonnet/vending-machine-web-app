@@ -1,7 +1,6 @@
 # vending-machine-web-app
 
 
-
 This is an incomplete vending machine web app.
 The app is mainly split into 2 parts: The vending machine app itself and a simple interface to simulate using a vending machine. At this moment  the interface is built into the app so it will take some more work to change the simulation with something better suited.
 
@@ -13,6 +12,8 @@ Energy calculation and saving needs to be implemented.
 A timer needs to be implemented
 
 
+# Running the project.
+"npm start" can be used to run the  project in development mode.
 
 
 
