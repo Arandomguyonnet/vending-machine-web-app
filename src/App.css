@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  
+}
+
+.Top-bar {
+  height: 10vh;
+  background-color: chartreuse;
+}
+.Bottom-bar{
+  height: 10vh;
+  background-color: chartreuse;
+}
+
+
