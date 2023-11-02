@@ -8,13 +8,9 @@ import { MoneyCounter } from '../features/moneyCounter/MoneyCounter';
 import { ItemSelection } from '../features/itemSelection/ItemSelection';
 import './VendingMachine.css';
 
-
-
+//TODO: fix styling.
 export function VendingMachine(){
 
-
-
-    
      return (
         <div className='Vending-machine'>
             <ItemSelection />
